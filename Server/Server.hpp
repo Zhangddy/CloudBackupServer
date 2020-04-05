@@ -22,7 +22,6 @@ constexpr auto BACKUP_DIR = "./backup/";
 constexpr auto GZFILE_DIR = "./gzfile/" ;
 constexpr auto DATA_FILE = "./list.backup";
 
-
 class FileUtil
 {
     public:
